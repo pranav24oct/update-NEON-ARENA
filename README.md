@@ -315,3 +315,9 @@ For detailed documentation, consult the dedicated guides in `/docs`:
 
 ## License
 MIT License. Built for the competitive gaming community.
+<img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/0fcdfcb6-8c51-4e0a-9a87-7de5803e444e" />
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/e7660488-62ed-4933-9d1a-5308d3063ab3" />
+<img width="1902" height="897" alt="image" src="https://github.com/user-attachments/assets/33103c36-0f12-4af7-8913-b504ae6a29b0" />
+<img width="1905" height="847" alt="image" src="https://github.com/user-attachments/assets/93355958-1009-494b-9966-c1b9e7351d16" />
+<img width="1912" height="872" alt="image" src="https://github.com/user-attachments/assets/a1995fee-8ce3-48fc-b240-e00ee6788879" />
+
